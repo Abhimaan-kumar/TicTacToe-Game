@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="App_Name">TicTacToe</string>
+    <string name="restart">Restart</string>
+    <string name="guide">Abhimaan\'s Turn (X-Turn)</string>
+</resources>
